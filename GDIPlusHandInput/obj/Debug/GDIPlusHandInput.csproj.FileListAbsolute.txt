@@ -1,0 +1,9 @@
+D:\beta\标准产品试用版\GDIPlusHandInput\GDIPlusHandInput\bin\Debug\GDIPlusHandInput.dll
+D:\beta\标准产品试用版\GDIPlusHandInput\GDIPlusHandInput\bin\Debug\GDIPlusHandInput.pdb
+D:\beta\标准产品试用版\GDIPlusHandInput\GDIPlusHandInput\obj\Debug\ResolveAssemblyReference.cache
+D:\beta\标准产品试用版\GDIPlusHandInput\GDIPlusHandInput\obj\Debug\GDIPlusHandInput.MainCanvas.resources
+D:\beta\标准产品试用版\GDIPlusHandInput\GDIPlusHandInput\obj\Debug\GDIPlusHandInput.PaintControls.resources
+D:\beta\标准产品试用版\GDIPlusHandInput\GDIPlusHandInput\obj\Debug\GDIPlusHandInput.csproj.GenerateResource.Cache
+D:\beta\标准产品试用版\GDIPlusHandInput\GDIPlusHandInput\obj\Debug\GDIPlusHandInput.dll
+D:\beta\标准产品试用版\GDIPlusHandInput\GDIPlusHandInput\obj\Debug\GDIPlusHandInput.pdb
+D:\beta\标准产品试用版\GDIPlusHandInput\GDIPlusHandInput\obj\Debug\GDIPlusHandInput.BufferCanvas.resources

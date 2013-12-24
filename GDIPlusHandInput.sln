@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDIPlusHandInput", "GDIPlusHandInput\GDIPlusHandInput.csproj", "{313C4E76-84EB-4B3D-B395-81652761CF67}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.8.243:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GDIPlusHandInput\\GDIPlusHandInput.csproj
+		SccProjectName1 = GDIPlusHandInput
+		SccLocalPath1 = GDIPlusHandInput
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{313C4E76-84EB-4B3D-B395-81652761CF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313C4E76-84EB-4B3D-B395-81652761CF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313C4E76-84EB-4B3D-B395-81652761CF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313C4E76-84EB-4B3D-B395-81652761CF67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
